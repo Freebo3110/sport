@@ -1,0 +1,19 @@
+.container {
+  display: flex;
+  justify-content: center;
+  background-color: white;  
+}
+
+.btn {
+  display: flex;
+justify-content: space-evenly;
+}
+
+
+button {
+  background-color: #2ce022;
+  color: black;
+  padding: 10px;
+  border: none;
+  text-transform: uppercase;
+}
